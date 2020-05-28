@@ -1,8 +1,6 @@
 body {
   background-color: skyblue;
   font-family: serif;
-  column-gap: normal;
-  columns: 3;
 }
 
 img {
@@ -12,9 +10,15 @@ img {
 .column {
   float: center;
   width: 300px;
+  height: 1200px;
+}
+
+.entries {
+  columns: 3;
 }
 
 .header {
-  margin-bottom: 50px;
-  padding-bottom: 50px;
+  align: center;
+  margin: 20px;
+  padding: 20px
 }
