@@ -1,6 +1,7 @@
 body {
   background-color: skyblue;
   font-family: serif;
+  color: white;
 }
 
 img {
@@ -21,4 +22,9 @@ img {
   align: center;
   margin: 20px;
   padding: 20px
+}
+
+.sidebar {
+  float:left;
+  width: 200px;
 }
