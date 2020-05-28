@@ -1,0 +1,18 @@
+body {
+  background-color: skyblue;
+  font-family: serif;
+  column-width: 300px;
+}
+
+img {
+  width: 300px;
+}
+
+.column {
+  float: center;
+  margin-top: 50px;
+}
+
+.header {
+  margin-bottom: 50px;
+}
