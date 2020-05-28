@@ -1,7 +1,8 @@
 body {
   background-color: skyblue;
   font-family: serif;
-  column-width: 300px;
+  column-gap: normal;
+  columns: 3;
 }
 
 img {
@@ -10,9 +11,10 @@ img {
 
 .column {
   float: center;
-  margin-top: 50px;
+  width: 300px;
 }
 
 .header {
   margin-bottom: 50px;
+  padding-bottom: 50px;
 }
