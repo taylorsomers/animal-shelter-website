@@ -28,11 +28,3 @@ img {
   float:left;
   width: 200px;
 }
-
-@media screen and (min-width: 768px) {
-  .column {
-    width: 300px;
-    float: center;
-    padding: 20px;
-  }
-}
