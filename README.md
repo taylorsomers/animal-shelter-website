@@ -4,7 +4,7 @@
 
 ## Description
 
-A demonstration website displaying usage of cascading web design techniques and formatting with columns, two commmon and helpful elements in web design.
+A demonstration website displaying usage of cascading (CSS) web design techniques and formatting with columns, two commmon and helpful elements in web design. Additionally, it demonstrates what we have learned so far with regard to HTML formatting to create a simple and straightforward user experience.
 
 ## Installation
 
